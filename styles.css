@@ -1,0 +1,26 @@
+body{
+    background-color: cornsilk;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+ul,ol{
+    display: inline-block;
+    text-align: left;
+}
+.title{
+    color: darkolivegreen;
+    font-weight: bolder;
+    font-size: larger;
+}
+.heading{
+    color: darkolivegreen;
+    font-size: large;
+    font-weight: bold;
+}
+.pho {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+}
