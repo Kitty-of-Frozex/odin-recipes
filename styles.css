@@ -1,3 +1,6 @@
+* {
+    border: 2px solid red;
+  }
 body{
     background-color: cornsilk;
     font-family: 'Times New Roman', Times, serif;
